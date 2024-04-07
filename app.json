@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/VJBots/VJ-FILTER-BOT",
-    "repository": "https://github.com/VJBots/VJ-FILTER-BOT",
+    "repository": "https://github.com/suvser/VJ-FILTER-BOT",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
